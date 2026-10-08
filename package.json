@@ -1,0 +1,23 @@
+{
+  "name": "secops-gta-quiz",
+  "version": "1.0.0",
+  "description": "Quiz CTF interactif GTA San Andreas x SECOPS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "keywords": [
+    "secops",
+    "gta-san-andreas",
+    "ctf",
+    "quiz",
+    "cybersecurity"
+  ],
+  "author": "SECOPS Team",
+  "license": "MIT"
+}
