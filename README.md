@@ -12,6 +12,7 @@ Players progress through **10 questions** covering GTA lore and cybersecurity co
 
 **No installation required — open the link and start the challenge.**
 
+<img width="562" height="474" alt="image" src="https://github.com/user-attachments/assets/9c865b44-e6e4-44b9-aef8-17ceb8306cd9" />
 
 
 ## 🎯 The Challenge
